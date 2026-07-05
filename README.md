@@ -53,4 +53,5 @@ Mobile-App-Success-Analytics/
 
 ## Author
 
-Sravya
+Krishna Revanth
+
